@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p3p1</string>
+    <string name="p1t">Localizacion GPS</string>
+    <string name="p1La">Latitud\n\n</string>
+    <string name="p1Lon">Longitud</string>
+    <string name="btn">Obtener posicion</string>
+</resources>
